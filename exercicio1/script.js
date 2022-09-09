@@ -1,6 +1,6 @@
 const num = Number(prompt("Digite um número"));
 
-// UTILIZANDO IFS ANINHADOS
+// Utilizando ifs aninhados
 
 /*
 if(num % 2 === 0){
